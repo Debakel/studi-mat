@@ -79,7 +79,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 140%;
-	border-top: 10px solid #f2951f
+	border-top: 10px solid #ad007c
 }
 ol, ul {
 	list-style: none;
@@ -100,7 +100,7 @@ p, table, #explanation {
 	margin: 12px 0;
 }
 a, a:hover, a:visited, a:active {
-	color: #f2951f;
+	color: #ad007c;
 	text-decoration: none;
 }
 a:hover {
@@ -277,14 +277,11 @@ a.vote-ja, a.vote-nein, a.vote-enth {
 }
 /*
 a.vote:active, .button:active, .button.back:active {
-	background-color: #f2951f 
+	background-color: #ad007c 
 }*/
 
-/* hover just for large screens, because they might have a mouse */
-@media (min-device-width: 800px) {
-	a.vote:hover {
-		text-decoration: underline ; /*#f2951f*/
-	}
+a.vote:hover {
+	background-color: #ad007c 
 }
 
 a.vote:hover.vote-ueber:active, a.vote-ueber:active {
@@ -323,7 +320,7 @@ a.vote:hover.vote-ueber:active, a.vote-ueber:active {
 .question { 
 	height: auto;
 	margin: 15px 0 0 0;	
-	background: #f2951f;
+	background: #ad007c;
 	padding: 10px 10px 20px 10px;
 	min-height: 130px; 
 	
@@ -415,7 +412,7 @@ footer {
 	text-align: right;
 	color: #fff;
 	min-width: 30px;
-	background-color: #f2951f;
+	background-color: #ad007c;
 	box-sizing: border-box;
 }
 #result_long table {
@@ -432,7 +429,7 @@ footer {
 #result_long tr.showResult {
 	transition: background 0.1s linear;
 	font-weight: bold;
-	background-color: #f2951f !important;
+	background-color: #ad007c !important;
 		
 }
 #result_long tr.showResult td:first-of-type{
@@ -456,7 +453,7 @@ footer {
 	background: #cecece
 }
 #result_long table tr.expandRow.double  {
-	background: #f2951f
+	background: #ad007c
 }
 #result_long table tr.result_reason td {
 	padding: 0 6px 0 6px;
