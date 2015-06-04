@@ -49,7 +49,7 @@
 
 		<meta name="author" content="Standard"/>
 		<meta name="description" content="Studi-Mat" />
-		<meta name="keywords" content="studi-mat, AStA, TU Darmstadt, Hochschulwahlen"/>
+		<meta name="keywords" content="studi-mat, AStA, Uni Augsburg, Hochschulwahlen"/>
 
 		<meta name="language" content="de" />
 		<meta name="Content-Language" content="de" />
@@ -58,7 +58,7 @@
 
 
 
-		<title>Studi-Mat - AStA der TU Darmstadt</title>
+		<title>Wahl-O-Mat | Hochschulwahlen 2015 an der Universität Augsburg</title>
 
 		<link rel="stylesheet" type="text/css" href="css/style.css" >
 		<link href="shariff/shariff.complete.css" rel="stylesheet">
@@ -67,7 +67,7 @@
 	<body>
 		<div id="middle">
 
-			<a href="https://www.asta.tu-darmstadt.de/studi-mat/?lang=<?php echo $_SESSION['lang']; ?>" title="zur Startseite" id="logo"></a>
+			<a href="?lang=<?php echo $_SESSION['lang']; ?>" title="zur Startseite" id="logo"></a>
 	
 			<div id="language">
 				<?php if ($_SESSION['lang'] == "de"){
@@ -149,23 +149,36 @@
 				
 				
 				
+				<h1>Zur Wahl treten an:</h3>
+				<p><strong>GRÜNE Hochschlgruppe (CampusGrün)</strong><br />
+				<a href="http://www.ghg-augsburg.de.de">www.ghg-augsburg.de</a><br>
+				<a href="https://fb.me/GHG.Augsburg">facebook.com/GHG.Augsburg</a>			
+				</p>
+				<p><strong>DIE LISTE</strong><br />
+				<a href="https://fb.be/dieliste.augsburg">facebook.com/DieListe.Augsburg</a>				
+				</p>
+				<p><strong>JUSOS</strong><br />
+				<a href="https://www.facebook.com/jusohsgaux">facebook.com/jusohsgaux</a>				
+				</p>
+				<p><strong>RCDS</strong><br />
+				<a href="http://www.rcds-augsburgt.de/">www.rcds-augsburg.de</a>				
+				</p>
+				<p><strong>Die Bewegung</strong><br />
+				<a href="https://www.facebook.com/pages/Die-Bewegung/899153406797932">auf Facebook</a>				
+				</p>
+<p><strong>Kritische Liste</strong><br />
+				<a href="https://www.facebook.com/KritischeListe">https://www.facebook.com/KritischeListe</a>				
+				</p>
+				<p><strong>AUStA</strong><br />
+				<a href="http://alumni-augsburg.net/">www.alumni-augsburg.net</a>				
+				</p>
+				<p><strong>NoAUStA</strong><br />
+				- hat keine Website -				
+				</p>
+				<p><strong>nah.gedacht</strong><br />
+				<a href="https://www.facebook.com/nahgedacht">facebook.com/nahgedacht</a>				
+				</p>
 				
-				<p><strong>CampusGrüne</strong><br />
-				<a href="http://www.campusgruene.de">www.campusgrüene.de</a>				
-				</p>
-				<p><strong>Fachwerk</strong><br />
-				<a href="http://www.fachwerkhouse.de">www.fachwerkhouse.de</a>				
-				</p>
-				<p><strong>Ing+</strong><br />
-				<a href="http://ingplus.net">www.ingplus.net</a>				
-				</p>
-				<p><strong>Jusos und Unabhängige</strong><br />
-				<a href="http://jusos-tud.de">www.jusos-tud.de</a>				
-				</p>
-				
-				<p><strong>SDS</strong><br />
-				<a href="https://sdstuda.wordpress.com/">sdstuda.wordpress.com</a>				
-				</p>
 				
 				
 				
@@ -188,7 +201,7 @@
 			  
 			 
 			<p id="extras">
-			 <a href="imprint.html">Impressum</a>
+			<a href="wahllokale.html">Wahllokale</a> | <a href="imprint.html">Impressum</a>
 			</p>
 		</footer>
 
@@ -214,9 +227,5 @@
 		<script type="text/javascript" src="js/meinungsvergleich.js"></script>
 		<script src="shariff/shariff.min.js"></script>
 
-<?php
-if(file_exists('_tracking.php'))
-    include '_tracking.php';
-?>
 	</body>
 </html>
