@@ -178,6 +178,12 @@
 				<p><strong>nah.gedacht</strong><br />
 				<a href="https://www.facebook.com/nahgedacht">facebook.com/nahgedacht</a>				
 				</p>
+<p><strong>Liberale Hochschulgruppe (LHG)</strong><br />
+				<a href="https://www.facebook.com/lhg.augsburg?fref=ts">facebook.com/lhg.augsburg</a>				
+				</p>
+				<p><strong>nah.gedacht</strong><br />
+				<a href="https://www.facebook.com/nahgedacht">facebook.com/nahgedacht</a>				
+				</p>
 				
 				
 				
