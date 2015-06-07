@@ -6,14 +6,14 @@ $lang['header'] = "Hochschulwahlen 2015/2016";
 
 $lang['js'] = '<strong>Ohne Java-Script geht hier leider nichts. Dafür berechnen wir auch alles nur auf deinem Gerät und senden deine Meinungen an keinen Server.<br />Deal?</strong>';
 
-$lang['einleitung'] = '<p>Jeden Sommer finden die Uniwahlen statt, bei der die Studierenden entscheidet, wer sie für das folgende Jahr vertreten soll. Hintergrundinformationen und Interviews mit allen antretenden Listen (quasi die "Parteien") findet ihr in der <a href="">Wahlausgabe des UNIVERSUM-Magazins</a>.</p>
+$lang['einleitung'] = '<p>Jeden Sommer finden die Uniwahlen statt, bei der die Studierenden entscheidet, wer sie für das folgende Jahr vertreten soll. Hintergrundinformationen und Interviews mit allen antretenden Listen (quasi die "Parteien") findet ihr in der <a href="http://issuu.com/asta.augsburg/docs/final_200dpi">Wahlausgabe des UNIVERSUM-Magazins</a>.</p>
 				<br>
 				<p align="center">
 				<strong>Die Wahl findet statt am<br>
 				9. und 10. Juni</strong><br />
 				in den <a href="wahllokale.html">Wahllokalen eurer Fakultät</a></p>
 				<br>
-<p>Dieses Jahr treten an: <a href="http://ghg-augsburg.de">GRÜNE Hochschulgruppe (CampusGrün)</a>, <a href="">JUSOS</a>, <a href="https://fb.me/DieListe.Augsburg">DIE LISTE</a>, <a href="">RCDS</a>, <a href="">Die Bewegung</a>, <a href="">AUStA</a>, <a href="">NoAUStA</a> und <a href="">LHG</a>, <a href="">NoAUStA</a> und <a href="">nah.gedacht</a>.</p>
+<p>Dieses Jahr treten an: <a href="http://ghg-augsburg.de">GRÜNE Hochschulgruppe (CampusGrün)</a>, <a href="https://www.facebook.com/jusohsgaux">JUSOS</a>, <a href="https://fb.me/DieListe.Augsburg">DIE LISTE</a>, <a href="http://www.rcds-augsburg.de/">RCDS</a>, <a href="https://www.facebook.com/pages/Die-Bewegung/899153406797932">Die Bewegung</a>, <a href="http://alumni-augsburg.net/">AUStA</a>, <a>NoAUStA</a> und <a href="https://www.facebook.com/lhg.augsburg">LHG</a> und <a href="https://www.facebook.com/nahgedacht">nah.gedacht</a>.</p>
 
 <p>Klickt euch jetzt durch den Wahl-O-Mat, um eure Meinung mit den Positionen der Listen zu vergleichen!</p>
 
@@ -40,7 +40,7 @@ $lang['result'] = '<p>Der studi-mat ergab für dich folgendes Ergebnis. Unten fi
 
 
 $lang['furtherinfos'] = '<h3>Weitere Informationen zur Wahl</h3>
-				<p>Viele weitere Infos zur diesjährigen Wahl und zur Hochschulpolitik findest du in der Wahlausgabe des <a href="http://universum.pink">UNIVERSUM-Magazin</a> und im<a href="http://wahl.universum.pink">Wahlportal des AStA</a>.</p>';
+				<p>Viele weitere Infos zur diesjährigen Wahl und zur Hochschulpolitik findest du in der Wahlausgabe des <a href="http://issuu.com/asta.augsburg/docs/final_200dpi">UNIVERSUM-Magazin</a> und im <a href="http://wahl.universum.pink">Wahlportal des AStA</a>.</p>';
 				
 				
 				
