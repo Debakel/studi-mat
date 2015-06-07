@@ -40,7 +40,7 @@ $lang['result'] = '<p>Der studi-mat ergab für dich folgendes Ergebnis. Unten fi
 
 
 $lang['furtherinfos'] = '<h3>Weitere Informationen zur Wahl</h3>
-				<p>Viele weitere Infos zur diesjährigen Wahl und zur Hochschulpolitik findest du in der Wahlausgabe des <a href="http://universum.pink">UNIVERSUM-Magazin</a> und auf der <a href="TODO">Webseite des AStA</a>.</p>';
+				<p>Viele weitere Infos zur diesjährigen Wahl und zur Hochschulpolitik findest du in der Wahlausgabe des <a href="http://universum.pink">UNIVERSUM-Magazin</a> und im<a href="http://wahl.universum.pink">Wahlportal des AStA</a>.</p>';
 				
 				
 				
