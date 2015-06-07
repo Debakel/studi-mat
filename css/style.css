@@ -325,10 +325,10 @@ a.vote:hover.vote-ueber:active, a.vote-ueber:active {
 	min-height: 130px; 
 	
 }
-
 .question p.questiontext {
 	margin:0 0 7px 0;
 	font-size: 16pt;
+	color: #ffffff;
 }
 /* for handlheld smaller question text*/
 @media (max-width: 600px ) {
