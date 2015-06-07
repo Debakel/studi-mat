@@ -161,7 +161,7 @@
 				<a href="https://www.facebook.com/jusohsgaux">facebook.com/jusohsgaux</a>				
 				</p>
 				<p><strong>RCDS</strong><br />
-				<a href="http://www.rcds-augsburgt.de/">www.rcds-augsburg.de</a>				
+				<a href="http://www.rcds-augsburg.de/">www.rcds-augsburg.de</a>				
 				</p>
 				<p><strong>Die Bewegung</strong><br />
 				<a href="https://www.facebook.com/pages/Die-Bewegung/899153406797932">facebook.com/pages/Die-Bewegung/899153406797932</a>				
@@ -181,10 +181,7 @@
 <p><strong>Liberale Hochschulgruppe (LHG)</strong><br />
 				<a href="https://www.facebook.com/lhg.augsburg?fref=ts">facebook.com/lhg.augsburg</a>				
 				</p>
-				<p><strong>nah.gedacht</strong><br />
-				<a href="https://www.facebook.com/nahgedacht">facebook.com/nahgedacht</a>				
-				</p>
-				
+			
 				
 				
 				
