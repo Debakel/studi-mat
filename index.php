@@ -164,7 +164,7 @@
 				<a href="http://www.rcds-augsburgt.de/">www.rcds-augsburg.de</a>				
 				</p>
 				<p><strong>Die Bewegung</strong><br />
-				<a href="https://www.facebook.com/pages/Die-Bewegung/899153406797932">auf Facebook</a>				
+				<a href="https://www.facebook.com/pages/Die-Bewegung/899153406797932">facebook.com/pages/Die-Bewegung/899153406797932</a>				
 				</p>
 <p><strong>Kritische Liste</strong><br />
 				<a href="https://www.facebook.com/KritischeListe">https://www.facebook.com/KritischeListe</a>				
