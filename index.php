@@ -155,7 +155,7 @@
 				<a href="https://fb.me/GHG.Augsburg">facebook.com/GHG.Augsburg</a>			
 				</p>
 				<p><strong>DIE LISTE</strong><br />
-				<a href="https://fb.be/dieliste.augsburg">facebook.com/DieListe.Augsburg</a>				
+				<a href="https://fb.me/dieliste.augsburg">facebook.com/DieListe.Augsburg</a>				
 				</p>
 				<p><strong>JUSOS</strong><br />
 				<a href="https://www.facebook.com/jusohsgaux">facebook.com/jusohsgaux</a>				
