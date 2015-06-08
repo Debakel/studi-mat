@@ -13,7 +13,7 @@ $lang['einleitung'] = '<p>Jeden Sommer finden die Uniwahlen statt, bei der die S
 				9. und 10. Juni</strong><br />
 				in den <a href="wahllokale.html">Wahllokalen eurer Fakultät</a></p>
 				<br>
-<p>Dieses Jahr treten an: <a href="http://ghg-augsburg.de">GRÜNE Hochschulgruppe (CampusGrün)</a>, <a href="https://www.facebook.com/jusohsgaux">JUSOS</a>, <a href="https://fb.me/DieListe.Augsburg">DIE LISTE</a>, <a href="http://www.rcds-augsburg.de/">RCDS</a>, <a href="https://www.facebook.com/pages/Die-Bewegung/899153406797932">Die Bewegung</a>, <a href="http://alumni-augsburg.net/">AUStA</a>, <a>NoAUStA</a> und <a href="https://www.facebook.com/lhg.augsburg">LHG</a> und <a href="https://www.facebook.com/nahgedacht">nah.gedacht</a>.</p>
+<p>Dieses Jahr treten an: <a href="http://ghg-augsburg.de">GRÜNE Hochschulgruppe (CampusGrün)</a>, <a href="https://www.facebook.com/jusohsgaux">JUSOS</a>, <a href="https://fb.me/DieListe.Augsburg">DIE LISTE</a>, <a href="http://www.rcds-augsburg.de/">RCDS</a>, <a href="https://www.facebook.com/pages/Die-Bewegung/899153406797932">Die Bewegung</a>, <a href="http://alumni-augsburg.net/">AUStA</a>, <a>NoAUStA</a> und <a href="https://www.facebook.com/lhg.augsburg">LHG</a>, <a href="https://www.facebook.com/nahgedacht">nah.gedacht</a> und die <a href="https://www.facebook.com/KritischeListe">Kritische Liste</a>.</p>
 
 <p>Klickt euch jetzt durch den Wahl-O-Mat, um eure Meinung mit den Positionen der Listen zu vergleichen!</p>
 

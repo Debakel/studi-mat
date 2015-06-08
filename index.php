@@ -167,7 +167,7 @@
 				<a href="https://www.facebook.com/pages/Die-Bewegung/899153406797932">facebook.com/pages/Die-Bewegung/899153406797932</a>				
 				</p>
 <p><strong>Kritische Liste</strong><br />
-				<a href="https://www.facebook.com/KritischeListe">https://www.facebook.com/KritischeListe</a>				
+				<a href="https://www.facebook.com/KritischeListe">facebook.com/KritischeListe</a>				
 				</p>
 				<p><strong>AUStA</strong><br />
 				<a href="http://alumni-augsburg.net/">www.alumni-augsburg.net</a>				
