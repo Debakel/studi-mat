@@ -157,10 +157,10 @@
 				<p><strong>DIE LISTE</strong><br />
 				<a href="https://fb.me/dieliste.augsburg">facebook.com/DieListe.Augsburg</a>				
 				</p>
-				<p><strong>JUSOS</strong><br />
+				<p><strong>JUSOS (Jungsozialisten in der SPD)</strong><br />
 				<a href="https://www.facebook.com/jusohsgaux">facebook.com/jusohsgaux</a>				
 				</p>
-				<p><strong>RCDS</strong><br />
+				<p><strong>RCDS (Ring Christlich Demokratischer Studenten)</strong><br />
 				<a href="http://www.rcds-augsburg.de/">www.rcds-augsburg.de</a>				
 				</p>
 				<p><strong>Die Bewegung</strong><br />
@@ -169,7 +169,8 @@
 <p><strong>Kritische Liste</strong><br />
 				<a href="https://www.facebook.com/KritischeListe">facebook.com/KritischeListe</a>				
 				</p>
-				<p><strong>AUStA</strong><br />
+				<p><strong>Augsburger Universitätsstudenten und Alumni (AUStA)</strong><br />
+				Anmerkung: Nicht zu verwechseln mit dem AStA.
 				<a href="http://alumni-augsburg.net/">www.alumni-augsburg.net</a>				
 				</p>
 				<p><strong>NoAUStA</strong><br />
