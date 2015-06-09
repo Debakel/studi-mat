@@ -6,17 +6,20 @@ $lang['header'] = "University elections 2015/2016";
 
 $lang['js'] = '<strong>Without Java-Script there is not much we can do here</strong>';
 
-$lang['einleitung'] = '
-	<p><strong>We do not save any data on this site. All your answers stay on your device.</strong>
-	This does also mean, that you will loose all your results once you leave this page or reload it.</p>
-	
-	<p>With university elections 2015 you do not only have the chance to elect your "Fachschaftsräte" and  your representatives in the "Fakultätsrat" but also your representatives in the "Studentische Konvent" and the "Erweiterte Universitätsleitung"</p>
-				
-				
-				<p><strong>9th june - 10th june 2015</strong><br />
-				</p>
-	
-				<p>This is no voting advice but only a offer to inform yourself about the current positions of all the participating groups.</p>
+$lang['einleitung'] = '<p>Every summer, University elections take place, and students decide who will represent them in the following year.
+Background information and Interviews with all participating lists can be found in the previous edition of the <a href="http://universum.pink/wahl2015">UNIVERSUM-Magazine</a>.</p>
+				<br>
+				<p align="center">
+
+
+				<strong>Elections will be on the 9th and 10th of June</strong><br />
+				in the <a href="wahllokale.html">polling stations of your faculty.</a></p>
+				<br>
+<p>This year’s participating lists: <a href="http://ghg-augsburg.de">GRÜNE Hochschulgruppe (CampusGrün)</a>, <a href="https://www.facebook.com/jusohsgaux">JUSOS</a>, <a href="https://fb.me/DieListe.Augsburg">DIE LISTE</a>, <a href="http://www.rcds-augsburg.de/">RCDS</a>, <a href="https://www.facebook.com/pages/Die-Bewegung/899153406797932">Die Bewegung</a>, <a href="http://alumni-augsburg.net/">AUStA</a>, <a>NoAUStA</a>, <a href="https://www.facebook.com/lhg.augsburg">LHG</a>, <a href="https://www.facebook.com/nahgedacht">nah.gedacht</a> and <a href="https://www.facebook.com/KritischeListe">Kritische Liste</a>.</p>
+
+<p>Click through the Wahl-O-Mat and compare your opinion with those of the different lists!</p>
+
+<p><strong>Notice: </strong>We do not save any of these informations. Your answers will only be evaluated on your device and won’t be sent to any server, which means that your answers will be lost as soon as you leave the page or reload it.</p>
 ';
 
 
