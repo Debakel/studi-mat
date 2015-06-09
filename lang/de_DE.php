@@ -6,7 +6,7 @@ $lang['header'] = "Hochschulwahlen 2015/2016";
 
 $lang['js'] = '<strong>Ohne Java-Script geht hier leider nichts. Dafür berechnen wir auch alles nur auf deinem Gerät und senden deine Meinungen an keinen Server.<br />Deal?</strong>';
 
-$lang['einleitung'] = '<p>Jeden Sommer finden die Uniwahlen statt, bei der die Studierenden entscheidet, wer sie für das folgende Jahr vertreten soll. Hintergrundinformationen und Interviews mit allen antretenden Listen (quasi die "Parteien") findet ihr in der <a href="http://issuu.com/asta.augsburg/docs/final_200dpi">Wahlausgabe des UNIVERSUM-Magazins</a>.</p>
+$lang['einleitung'] = '<p>Jeden Sommer finden die Uniwahlen statt, bei der die Studierenden entscheidet, wer sie für das folgende Jahr vertreten soll. Hintergrundinformationen und Interviews mit allen antretenden Listen (quasi die "Parteien") findet ihr in der <a href="http://universum.pink/wahl2015">Wahlausgabe des UNIVERSUM-Magazins</a>.</p>
 				<br>
 				<p align="center">
 				<strong>Die Wahl findet statt am<br>
@@ -40,7 +40,7 @@ $lang['result'] = '<p>Der studi-mat ergab für dich folgendes Ergebnis. Unten fi
 
 
 $lang['furtherinfos'] = '<h3>Weitere Informationen zur Wahl</h3>
-				<p>Viele weitere Infos zur diesjährigen Wahl und zur Hochschulpolitik findest du in der Wahlausgabe des <a href="http://issuu.com/asta.augsburg/docs/final_200dpi">UNIVERSUM-Magazin</a> und im <a href="http://wahl.universum.pink">Wahlportal des AStA</a>.</p>';
+				<p>Viele weitere Infos zur diesjährigen Wahl und zur Hochschulpolitik findest du in der Wahlausgabe des <a href="http://universum.pink/wahl2015">UNIVERSUM-Magazin</a> und im <a href="http://wahl.universum.pink">Wahlportal des AStA</a>.</p>';
 				
 				
 				
