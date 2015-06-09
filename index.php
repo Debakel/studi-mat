@@ -151,7 +151,7 @@
 				
 				<h1>Zur Wahl treten an:</h3>
 				<p><strong>GRÜNE Hochschlgruppe (CampusGrün)</strong><br />
-				<a href="http://www.ghg-augsburg.de.de">www.ghg-augsburg.de</a><br>
+				<a href="http://www.ghg-augsburg.de">www.ghg-augsburg.de</a><br>
 				<a href="https://fb.me/GHG.Augsburg">facebook.com/GHG.Augsburg</a>			
 				</p>
 				<p><strong>DIE LISTE</strong><br />
