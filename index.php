@@ -49,7 +49,7 @@
 
 		<meta name="author" content="Standard"/>
 		<meta name="description" content="Studi-Mat" />
-		<meta name="keywords" content="studi-mat, AStA, TU Darmstadt, Hochschulwahlen"/>
+		<meta name="keywords" content="studi-mat, AStA, Uni Augsburg, Hochschulwahlen"/>
 
 		<meta name="language" content="de" />
 		<meta name="Content-Language" content="de" />
@@ -58,7 +58,7 @@
 
 
 
-		<title>studi-mat AStA der TU Darmstadt</title>
+		<title>Wahl-O-Mat | Hochschulwahlen 2015 an der Universität Augsburg</title>
 
 		<link rel="stylesheet" type="text/css" href="css/style.css" >
 		<link href="shariff/shariff.complete.css" rel="stylesheet">
@@ -67,7 +67,7 @@
 	<body>
 		<div id="middle">
 
-			<a href="https://www.asta.tu-darmstadt.de/studi-mat/?lang=<?php echo $_SESSION['lang']; ?>" title="zur Startseite" id="logo"></a>
+			<a href="?lang=<?php echo $_SESSION['lang']; ?>" title="zur Startseite" id="logo"></a>
 	
 			<div id="language">
 				<?php if ($_SESSION['lang'] == "de"){
@@ -149,25 +149,40 @@
 				
 				
 				
-				
-				<p><strong>CampusGrüne</strong><br />
-				<a href="http://www.campusgruene.de">www.campusgrüene.de</a>				
+				<h1>Zur Wahl treten an:</h3>
+				<p><strong>GRÜNE Hochschlgruppe (CampusGrün)</strong><br />
+				<a href="http://www.ghg-augsburg.de">www.ghg-augsburg.de</a><br>
+				<a href="https://fb.me/GHG.Augsburg">facebook.com/GHG.Augsburg</a>			
 				</p>
-				<p><strong>Fachwerk</strong><br />
-				<a href="http://www.fachwerkhouse.de">www.fachwerkhouse.de</a>				
+				<p><strong>DIE LISTE</strong><br />
+				<a href="https://fb.me/dieliste.augsburg">facebook.com/DieListe.Augsburg</a>				
 				</p>
-				<p><strong>Ing+</strong><br />
-				<a href="http://ingplus.net">www.ingplus.net</a>				
+				<p><strong>JUSOS (Jungsozialisten in der SPD)</strong><br />
+				<a href="https://www.facebook.com/jusohsgaux">facebook.com/jusohsgaux</a>				
 				</p>
-				<p><strong>JuSos</strong><br />
-				<a href="http://jusos-tud.de">www.jusos-tud.de</a>				
+				<p><strong>RCDS (Ring Christlich Demokratischer Studenten)</strong><br />
+				<a href="http://www.rcds-augsburg.de/">www.rcds-augsburg.de</a>				
 				</p>
-				<p><strong>RCDS</strong><br />
-				<a href="http://www.rcds-darmstadt.de/">www.rcds-darmstadt.de</a>				
+				<p><strong>Die Bewegung</strong><br />
+				<a href="https://www.facebook.com/pages/Die-Bewegung/899153406797932">facebook.com/pages/Die-Bewegung/899153406797932</a>				
 				</p>
-				<p><strong>SDS</strong><br />
-				<a href="https://sdstuda.wordpress.com/">sdstuda.wordpress.com</a>				
+<p><strong>Kritische Liste</strong><br />
+				<a href="https://www.facebook.com/KritischeListe">facebook.com/KritischeListe</a>				
 				</p>
+				<p><strong>Augsburger Universitätsstudenten und Alumni (AUStA)</strong><br />
+				Anmerkung: Nicht zu verwechseln mit dem AStA.
+				<a href="http://alumni-augsburg.net/">www.alumni-augsburg.net</a>				
+				</p>
+				<p><strong>NoAUStA</strong><br />
+				- hat keine Website -				
+				</p>
+				<p><strong>nah.gedacht</strong><br />
+				<a href="https://www.facebook.com/nahgedacht">facebook.com/nahgedacht</a>				
+				</p>
+<p><strong>Liberale Hochschulgruppe (LHG)</strong><br />
+				<a href="https://www.facebook.com/lhg.augsburg?fref=ts">facebook.com/lhg.augsburg</a>				
+				</p>
+			
 				
 				
 				
@@ -190,7 +205,7 @@
 			  
 			 
 			<p id="extras">
-			 <a href="imprint.html">Impressum</a>
+			<a href="wahllokale.html">Wahllokale</a> | <a href="imprint.html">Impressum</a>
 			</p>
 		</footer>
 
@@ -215,22 +230,21 @@
 		<!--<script type="text/javascript" src="csv2json.php"></script>-->
 		<script type="text/javascript" src="js/meinungsvergleich.js"></script>
 		<script src="shariff/shariff.min.js"></script>
-
-		<!-- Piwik -->
-		<script type="text/javascript">
-		  var _paq = _paq || [];
-		  _paq.push(['trackPageView']);
-		  _paq.push(['enableLinkTracking']);
-		  (function() {
-			var u="//www.asta.tu-darmstadt.de/piwik/";
-			_paq.push(['setTrackerUrl', u+'piwik.php']);
-			_paq.push(['setSiteId', 1]);
-			var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-			g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-		  })();
-		</script>
-		<noscript><p><img src="//www.asta.tu-darmstadt.de/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
-		<!-- End Piwik Code -->
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.universum.pink/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 2]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwik.universum.pink/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
 
 	</body>
 </html>

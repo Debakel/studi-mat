@@ -378,7 +378,7 @@ function createResult() {
 		
 		
 		antiprozent = 100 - prozentual;
-		$('#result_short').append('<div class="result_new_partie"><div class="barchart_name" style="width:'+antiprozent+'%">'+nameForBarChart+'</div><div class="barchart" style="width:'+prozentual+'%">'+prozentual+'%</div></div>');
+		$('#result_short').append('<div class="result_new_partie"><div class="barchart_name" >'+nameForBarChart+'</div><div class="barchart" style="width:'+prozentual+'%">'+prozentual+'%</div></div>');
 		
 	});
 	
@@ -399,6 +399,7 @@ function createResult() {
 	colspan = colspan + 2;
 	alternatingClass = "alternate-1"; // for alternating the rows gray and not gray 
 	
+
 	$.each(daten.frage, function(n, frage){
 		index         = n;
 
@@ -476,7 +477,7 @@ function createResult() {
 		
 		$('#result_long table').append('<tr class="expandRow ' + alternatingClass + ' ' + doubleclass +'" data-question="'+id+'"><td>' +frage+'</td><td class="ownresult">'+div+'</td>'+listP+'</tr>');
 		$('#result_long table').append('<tr data-reason="'+id+'" class="result_reason"><td colspan="'+colspan+'">'+reasonDiv+'</td></tr>');
-		
+
 	});
 
 	
@@ -486,6 +487,10 @@ function createResult() {
 	$('.container_4').show();
 	// always go to the top:
 	window.scrollTo(0, 0);
+	
+	// show first answer:
+	$('#0').show(); 
+	$('tr.expandRow[data-question="0"]').addClass("showResult");
 	
 	// click on result
 	$('tr.expandRow').on("click",function(){
@@ -580,7 +585,6 @@ $(document).ready(function(){
 	// check the current status though, as it does only matter after clicking
 	// start
 	$('#language a').click(function(){
-		console.log("logo click", startwahlomat);
 		if(startwahlomat){
 			return (confirm(lang['switchLanguage']));
 		}else{
@@ -588,7 +592,6 @@ $(document).ready(function(){
 		}
 	});
 	$('#logo').click(function(){
-		console.log("logo click", startwahlomat);
 		if(startwahlomat){
 			return (confirm(lang['logoClick']));
 		}else{
