@@ -87,13 +87,7 @@
 			<div  class="container container_1">
 				<?php echo $lang['einleitung']; ?>
 				
-				<div class="containerFooter">
-					<div id="startmatowahl" class="button">
-						<?php echo $lang['losgehts']; ?>
-					</div>
 				
-				<div class="shariff" data-theme="standard" data-orientation="vertical" data-lang="<?php echo $_SESSION['lang']; ?>" data-services="[&quot;facebook&quot;,&quot;twitter&quot;]"></div>	<br class="clear" />
-				</div>
 			</div>
 	
 
