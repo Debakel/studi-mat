@@ -58,7 +58,7 @@
 
 
 
-		<title>Wahl-O-Mat | Hochschulwahlen 2015 an der Universität Augsburg</title>
+		<title>Wahl-O-Mat | Hochschulwahlen 2016 an der Universität Augsburg</title>
 
 		<link rel="stylesheet" type="text/css" href="css/style.css" >
 		<link href="shariff/shariff.complete.css" rel="stylesheet">
@@ -154,6 +154,10 @@
 				<a href="http://www.ghg-augsburg.de">www.ghg-augsburg.de</a><br>
 				<a href="https://fb.me/GHG.Augsburg">facebook.com/GHG.Augsburg</a>			
 				</p>
+				</p>
+				<p><strong>Sozialistisch-Demokratischer-Studierendenverband (DIE LINKE.SDS)</strong><br />
+				<a href="https://www.facebook.com/lhg.augsburg?fref=ts">facebook.com/sds.augsburg</a>				
+				</p>
 				<p><strong>DIE LISTE</strong><br />
 				<a href="https://fb.me/dieliste.augsburg">facebook.com/DieListe.Augsburg</a>				
 				</p>
@@ -178,10 +182,7 @@
 				</p>
 				<p><strong>nah.gedacht</strong><br />
 				<a href="https://www.facebook.com/nahgedacht">facebook.com/nahgedacht</a>				
-				</p>
-<p><strong>Liberale Hochschulgruppe (LHG)</strong><br />
-				<a href="https://www.facebook.com/lhg.augsburg?fref=ts">facebook.com/lhg.augsburg</a>				
-				</p>
+				
 			
 				
 				
