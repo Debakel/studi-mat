@@ -150,11 +150,12 @@
 				
 				
 				<h1>Zur Wahl treten an:</h3>
+				<h2>Für den Konvent (Studierendenparlament)</h2>
 				<p><strong>GRÜNE Hochschlgruppe (CampusGrün)</strong><br />
 				<a href="http://www.ghg-augsburg.de">www.ghg-augsburg.de</a><br>
 				<a href="https://fb.me/GHG.Augsburg">facebook.com/GHG.Augsburg</a>			
 				</p>
-				</p>
+
 				<p><strong>Sozialistisch-Demokratischer-Studierendenverband (DIE LINKE.SDS)</strong><br />
 				<a href="https://www.facebook.com/lhg.augsburg?fref=ts">facebook.com/sds.augsburg</a>				
 				</p>
@@ -167,21 +168,31 @@
 				<p><strong>RCDS (Ring Christlich Demokratischer Studenten)</strong><br />
 				<a href="http://www.rcds-augsburg.de/">www.rcds-augsburg.de</a>				
 				</p>
-				<p><strong>Die Bewegung</strong><br />
+				<p><strong>Die Bewegung</strong><br/>
 				<a href="https://www.facebook.com/pages/Die-Bewegung/899153406797932">facebook.com/pages/Die-Bewegung/899153406797932</a>				
 				</p>
-<p><strong>Kritische Liste</strong><br />
+				<p><strong>Kritische Liste</strong><br />
 				<a href="https://www.facebook.com/KritischeListe">facebook.com/KritischeListe</a>				
 				</p>
 				<p><strong>Augsburger Universitätsstudenten und Alumni (AUStA)</strong><br />
-				Anmerkung: Nicht zu verwechseln mit dem AStA.
 				<a href="http://alumni-augsburg.net/">www.alumni-augsburg.net</a>				
 				</p>
-				<p><strong>NoAUStA</strong><br />
-				- hat keine Website -				
-				</p>
+				
 				<p><strong>nah.gedacht</strong><br />
-				<a href="https://www.facebook.com/nahgedacht">facebook.com/nahgedacht</a>				
+				<a href="https://www.facebook.com/nahgedacht">facebook.com/nahgedacht</a>
+				<h2>Für die erweiterte Universitätsleitung (EULe)</h2>
+				<p><strong>BUNTE Liste (Bündnis aus GRÜNEN, Kritische Liste, Jusos und DIE LINKE.SDS)</strong><br />
+				<a href="https://www.facebook.com/buntelisteaugsburg/">www.alumni-augsburg.net</a>				
+				</p>
+				<p><strong>Augsburger Universitätsstudenten und Alumni (AUStA)</strong><br />
+				<a href="http://alumni-augsburg.net/">www.alumni-augsburg.net</a>				
+				</p>
+				<p><strong>Die Bewegung</strong><br/>
+				<a href="https://www.facebook.com/pages/Die-Bewegung/899153406797932">facebook.com/pages/Die-Bewegung/899153406797932</a>				
+				</p>
+				<p><strong>UHU</strong><br />
+				- hat keine Website -				
+				</p>		
 				
 			
 				
