@@ -22,7 +22,7 @@ $lang['einleitung'] = '<p>Jeden Sommer finden die Uniwahlen statt, bei der die S
 <a>UHU</a>,
 <a href="https://www.facebook.com/pages/Die-Bewegung/899153406797932">Die Bewegung</a>, 
 <a href="http://alumni-augsburg.net/">AUStA</a>, 
-<a>NoAUStA</a>, <a href="https://www.facebook.com/nahgedacht">nah.gedacht</a>,
+<a href="https://www.facebook.com/nahgedacht">nah.gedacht</a>,
  <a href="https://www.facebook.com/KritischeListe">Kritische Liste</a> und
  <a href="https://www.facebook.com/buntelisteaugsburg">BUNTE Liste</a>.
 </p>

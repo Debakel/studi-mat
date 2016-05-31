@@ -21,8 +21,8 @@ $lang['einleitung'] = '<p>Every summer, University elections take place, and stu
 <a href="http://www.rcds-augsburg.de/">RCDS</a>, 
 <a>UHU</a>,
 <a href="https://www.facebook.com/pages/Die-Bewegung/899153406797932">Die Bewegung</a>, 
-<a href="http://alumni-augsburg.net/">AUStA</a>, 
-<a>NoAUStA</a>, <a href="https://www.facebook.com/nahgedacht">nah.gedacht</a>,
+<a href="http://alumni-augsburg.net/">AUStA</a>,
+ <a href="https://www.facebook.com/nahgedacht">nah.gedacht</a>,
  <a href="https://www.facebook.com/KritischeListe">Kritische Liste</a> and
  <a href="https://www.facebook.com/buntelisteaugsburg">BUNTE Liste</a>.</p>
 
