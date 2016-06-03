@@ -357,7 +357,7 @@ function createResult() {
 	
 	$('#result_short').html("");
 	
-	$.each(resorted, function(a,b){
+	$.each(resorted, function(parteiname_kurz,b){
 		// prozentual value:
 		doubles = daten.gewichtung.length
 		possiblePoint = 2*daten.frage.length + 2*doubles // daten.frage.length ist quasi die mitte, also 0 punkte
@@ -365,14 +365,14 @@ function createResult() {
 		prozentual = Math.round(parseFloat(reachedPoints)/parseFloat(possiblePoint) * 10000)/100
 
 		
-		langerParteiname = daten.partei[daten.parteiKurz.indexOf(a)];
+		langerParteiname = daten.partei[daten.parteiKurz.indexOf(parteiname_kurz)];
 		
 		
 		
-		nameForBarChart  = langerParteiname
+		nameForBarChart  = langerParteiname + ' (' + parteiname_kurz + ')';
 		/* // if you want to restrict the name length, I dont
 		if (langerParteiname.length < 20){
-			nameForBarChart  = a
+			nameForBarChart  = parteiname_kurz
 		}*/
 		
 		
